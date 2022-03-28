@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1647858306, 620643138]
+build_end_time: [1647858313, 393782138]
+inputs:
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/AppDelegate.swift": [1645604315, 0]
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/Controller/JokeController.swift": [1646006710, 0]
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/Controller/ListController.swift": [1646118294, 919410705]
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/Controller/MainController.swift": [1645997083, 0]
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/Controller/RandomController.swift": [1645973446, 0]
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/Controller/WineController.swift": [1645991380, 0]
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/Controller/WineDetailController.swift": [1646002093, 0]
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/Model/JokeData.swift": [1646006640, 0]
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/Model/JokeManager.swift": [1647858302, 559357643]
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/Model/RandomData.swift": [1645971136, 0]
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/Model/RandomManager.swift": [1647858302, 524674415]
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/Model/WineData.swift": [1646117753, 496057510]
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/Model/WineManager.swift": [1647858302, 547245979]
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/SceneDelegate.swift": [1645604315, 0]

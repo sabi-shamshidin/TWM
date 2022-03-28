@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A65B2932-1104-4926-8F33-DA3E08CCA049"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5BABA702-9B1C-47BD-AC15-DC50DD539B5D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TWM/Controller/ListController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "ListController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF6741D7-57A4-4387-A910-16F3FD009065"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TWM/Controller/ListController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F085FF6-8819-4F97-BD33-79C6BF1590FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TWM/Controller/ListController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "ListController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9F085FF6-8819-4F97-BD33-79C6BF1590FA - ca1922c2275cb92a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HGE.ListController.image11.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "HGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sabi/Downloads/2%20trimester/IOS/TWM/TWM/Controller/ListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "9F085FF6-8819-4F97-BD33-79C6BF1590FA - 8f5cf1a962832eb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HGE.ListController.image11.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "HGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sabi/Downloads/2%20trimester/IOS/TWM/TWM/Controller/ListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "9F085FF6-8819-4F97-BD33-79C6BF1590FA - a119abb4e0072ff2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HGE.ListController.image11.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "HGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sabi/Downloads/2%20trimester/IOS/TWM/TWM/Controller/ListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "9F085FF6-8819-4F97-BD33-79C6BF1590FA - 98a879af88d69d3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HGE.ListController.image11.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "HGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sabi/Downloads/2%20trimester/IOS/TWM/TWM/Controller/ListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "9F085FF6-8819-4F97-BD33-79C6BF1590FA - 9967ac9b24d498ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HGE.ListController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; HGE.ListController"
+                  moduleName = "HGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sabi/Downloads/2%20trimester/IOS/TWM/TWM/Controller/ListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "9F085FF6-8819-4F97-BD33-79C6BF1590FA - a32f0d1092c88161"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HGE.ListController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HGE.ListController&gt;"
+                  moduleName = "HGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sabi/Downloads/2%20trimester/IOS/TWM/TWM/Controller/ListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

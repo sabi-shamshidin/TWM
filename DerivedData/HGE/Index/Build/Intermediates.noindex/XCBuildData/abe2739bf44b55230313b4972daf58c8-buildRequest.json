@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "2913ba49880f842c03b49381511e09f3341da8c6b2976a00690cbca81929ebcb"
+    }
+  ],
+  "containerPath" : "/Users/sabi/Downloads/2 trimester/IOS/TWM/HGE.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/sabi/Downloads/2 trimester/IOS/TWM/DerivedData/HGE/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/sabi/Downloads/2 trimester/IOS/TWM/DerivedData/HGE/Index/Build/Products",
+      "derivedDataPath" : "/Users/sabi/Downloads/2 trimester/IOS/TWM/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/sabi/Downloads/2 trimester/IOS/TWM/DerivedData/HGE/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/sabi/Downloads/2 trimester/IOS/TWM/DerivedData/HGE/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/sabi/Downloads/2 trimester/IOS/TWM/DerivedData/HGE/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/sabi/Downloads/2 trimester/IOS/TWM/DerivedData/HGE/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

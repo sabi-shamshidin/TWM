@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1645886448, 349660873]
+build_end_time: [1645886453, 406876087]
+inputs:
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/AppDelegate.swift": [1645604315, 113748073]
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/Controller/ExerciseController.swift": [1645878632, 319658756]
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/Controller/ListController.swift": [1645886271, 929359197]
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/Controller/MainController.swift": [1645882272, 775139093]
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/Model/ExerciseData.swift": [1645886113, 615596]
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/Model/ExerciseManager.swift": [1645882272, 765769958]
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/Model/GifMan.swift": [1645872044, 13695716]
+  "/Users/sabi/Downloads/2 trimester/IOS/TWM/TWM/SceneDelegate.swift": [1645604315, 120973110]

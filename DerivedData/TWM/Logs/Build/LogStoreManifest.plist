@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>4619F3F8-71BD-4637-8143-8FE773E280ED</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4619F3F8-71BD-4637-8143-8FE773E280ED.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TWM project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TWM</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TWM</string>
+			<key>timeStartedRecording</key>
+			<real>667701387.72132099</real>
+			<key>timeStoppedRecording</key>
+			<real>667701392.55206895</real>
+			<key>title</key>
+			<string>Build TWM</string>
+			<key>uniqueIdentifier</key>
+			<string>4619F3F8-71BD-4637-8143-8FE773E280ED</string>
+		</dict>
+		<key>9388E484-D901-4427-8D56-50BE92A8CA42</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9388E484-D901-4427-8D56-50BE92A8CA42.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TWM project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TWM</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TWM</string>
+			<key>timeStartedRecording</key>
+			<real>667700612.37023997</real>
+			<key>timeStoppedRecording</key>
+			<real>667700613.68386197</real>
+			<key>title</key>
+			<string>Build TWM</string>
+			<key>uniqueIdentifier</key>
+			<string>9388E484-D901-4427-8D56-50BE92A8CA42</string>
+		</dict>
+		<key>E2DAB3C7-B3AC-42B7-8A3F-5D4EF9063F93</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E2DAB3C7-B3AC-42B7-8A3F-5D4EF9063F93.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TWM project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TWM</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TWM</string>
+			<key>timeStartedRecording</key>
+			<real>667701310.05552495</real>
+			<key>timeStoppedRecording</key>
+			<real>667701314.28421605</real>
+			<key>title</key>
+			<string>Build TWM</string>
+			<key>uniqueIdentifier</key>
+			<string>E2DAB3C7-B3AC-42B7-8A3F-5D4EF9063F93</string>
+		</dict>
+		<key>F06C9F58-AC4A-442C-A839-F8E0522F00FE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F06C9F58-AC4A-442C-A839-F8E0522F00FE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TWM project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TWM</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TWM</string>
+			<key>timeStartedRecording</key>
+			<real>667701538.77048302</real>
+			<key>timeStoppedRecording</key>
+			<real>667701542.57622802</real>
+			<key>title</key>
+			<string>Build TWM</string>
+			<key>uniqueIdentifier</key>
+			<string>F06C9F58-AC4A-442C-A839-F8E0522F00FE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0BB06EAA-FBE1-4EEB-87A8-0804B371D12D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0BB06EAA-FBE1-4EEB-87A8-0804B371D12D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HGE project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HGE</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build HGE</string>
+			<key>timeStartedRecording</key>
+			<real>669561690.01872802</real>
+			<key>timeStoppedRecording</key>
+			<real>669561696.73388004</real>
+			<key>title</key>
+			<string>Build HGE</string>
+			<key>uniqueIdentifier</key>
+			<string>0BB06EAA-FBE1-4EEB-87A8-0804B371D12D</string>
+		</dict>
+		<key>220966A8-831A-4C4D-86F5-2A65E15ED0EB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>220966A8-831A-4C4D-86F5-2A65E15ED0EB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HGE project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HGE</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build HGE</string>
+			<key>timeStartedRecording</key>
+			<real>669562341.03964806</real>
+			<key>timeStoppedRecording</key>
+			<real>669562375.18338501</real>
+			<key>title</key>
+			<string>Build HGE</string>
+			<key>uniqueIdentifier</key>
+			<string>220966A8-831A-4C4D-86F5-2A65E15ED0EB</string>
+		</dict>
+		<key>3386DABB-6653-4166-9C7F-528C8ACA3AD6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3386DABB-6653-4166-9C7F-528C8ACA3AD6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HGE project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HGE</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build HGE</string>
+			<key>timeStartedRecording</key>
+			<real>669562581.29316199</real>
+			<key>timeStoppedRecording</key>
+			<real>669562581.35540497</real>
+			<key>title</key>
+			<string>Build HGE</string>
+			<key>uniqueIdentifier</key>
+			<string>3386DABB-6653-4166-9C7F-528C8ACA3AD6</string>
+		</dict>
+		<key>651EE5A0-A1CF-4E5B-8435-D7A5ED3CF3F2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>651EE5A0-A1CF-4E5B-8435-D7A5ED3CF3F2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HGE project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HGE</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build HGE</string>
+			<key>timeStartedRecording</key>
+			<real>669560998.10100102</real>
+			<key>timeStoppedRecording</key>
+			<real>669560998.17507803</real>
+			<key>title</key>
+			<string>Build HGE</string>
+			<key>uniqueIdentifier</key>
+			<string>651EE5A0-A1CF-4E5B-8435-D7A5ED3CF3F2</string>
+		</dict>
+		<key>75EC834C-924E-4140-B28B-6F9B4AD85D82</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>75EC834C-924E-4140-B28B-6F9B4AD85D82.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HGE project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HGE</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build HGE</string>
+			<key>timeStartedRecording</key>
+			<real>669562381.15983999</real>
+			<key>timeStoppedRecording</key>
+			<real>669562387.58261502</real>
+			<key>title</key>
+			<string>Build HGE</string>
+			<key>uniqueIdentifier</key>
+			<string>75EC834C-924E-4140-B28B-6F9B4AD85D82</string>
+		</dict>
+		<key>873C47CE-2698-4506-B290-623C11B1E0D8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>873C47CE-2698-4506-B290-623C11B1E0D8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HGE project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HGE</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build HGE</string>
+			<key>timeStartedRecording</key>
+			<real>669561745.51014102</real>
+			<key>timeStoppedRecording</key>
+			<real>669561747.28536403</real>
+			<key>title</key>
+			<string>Build HGE</string>
+			<key>uniqueIdentifier</key>
+			<string>873C47CE-2698-4506-B290-623C11B1E0D8</string>
+		</dict>
+		<key>974000FA-1E75-4BF8-B9BE-F4F939113030</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>974000FA-1E75-4BF8-B9BE-F4F939113030.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HGE project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HGE</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build HGE</string>
+			<key>timeStartedRecording</key>
+			<real>669551102.67294502</real>
+			<key>timeStoppedRecording</key>
+			<real>669551120.30448401</real>
+			<key>title</key>
+			<string>Build HGE</string>
+			<key>uniqueIdentifier</key>
+			<string>974000FA-1E75-4BF8-B9BE-F4F939113030</string>
+		</dict>
+		<key>9EDF2E9A-33CE-4738-B647-27A80D4E669D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9EDF2E9A-33CE-4738-B647-27A80D4E669D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HGE project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HGE</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build HGE</string>
+			<key>timeStartedRecording</key>
+			<real>669561063.13521802</real>
+			<key>timeStoppedRecording</key>
+			<real>669561063.33829403</real>
+			<key>title</key>
+			<string>Build HGE</string>
+			<key>uniqueIdentifier</key>
+			<string>9EDF2E9A-33CE-4738-B647-27A80D4E669D</string>
+		</dict>
+		<key>D41E7BEA-1B69-4380-BD77-4F1A58C1F194</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D41E7BEA-1B69-4380-BD77-4F1A58C1F194.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HGE project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HGE</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build HGE</string>
+			<key>timeStartedRecording</key>
+			<real>669562754.05304801</real>
+			<key>timeStoppedRecording</key>
+			<real>669562766.92483497</real>
+			<key>title</key>
+			<string>Build HGE</string>
+			<key>uniqueIdentifier</key>
+			<string>D41E7BEA-1B69-4380-BD77-4F1A58C1F194</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

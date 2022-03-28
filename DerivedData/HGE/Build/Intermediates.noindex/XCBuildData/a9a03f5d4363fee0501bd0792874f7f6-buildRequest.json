@@ -1,0 +1,65 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "2913ba49880f842c03b49381511e09f3341da8c6b2976a00690cbca81929ebcb"
+    }
+  ],
+  "containerPath" : "/Users/sabi/Downloads/2 trimester/IOS/TWM/HGE.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/sabi/Downloads/2 trimester/IOS/TWM/DerivedData/HGE/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/sabi/Downloads/2 trimester/IOS/TWM/DerivedData/HGE/Build/Products",
+      "derivedDataPath" : "/Users/sabi/Downloads/2 trimester/IOS/TWM/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/sabi/Downloads/2 trimester/IOS/TWM/DerivedData/HGE/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/sabi/Downloads/2 trimester/IOS/TWM/DerivedData/HGE/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/sabi/Downloads/2 trimester/IOS/TWM/DerivedData/HGE/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "MacFamily20,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "00008103-001450EE3A8A001E",
+          "TARGET_DEVICE_MODEL" : "MacBookAir10,1",
+          "TARGET_DEVICE_OS_VERSION" : "12.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "macosx"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
